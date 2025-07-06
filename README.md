@@ -7,8 +7,10 @@ Feel free to use it, skid it, and paste it in your projects!
 
 ## Preview:
 
-![image](https://github.com/user-attachments/assets/32f09baf-2bcf-4d37-bb63-f9682dbba799)  
-![image](https://github.com/user-attachments/assets/d3d3559d-c2c7-4954-8c1b-0ff51cbbcb86)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/32f09baf-2bcf-4d37-bb63-f9682dbba799" width="45%" />
+  <img src="https://github.com/user-attachments/assets/d3d3559d-c2c7-4954-8c1b-0ff51cbbcb86" width="45%" />
+</p>
 
 ---
 
