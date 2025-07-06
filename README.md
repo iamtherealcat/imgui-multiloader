@@ -32,7 +32,7 @@ and add your includes in:
 - **421–436**
 - **576–595**
 
-I added some notes in German – translate them yourself, I’m too lazy right now.
+I added some notes in German translate them yourself, I’m too lazy right now.
 
 ---
 
