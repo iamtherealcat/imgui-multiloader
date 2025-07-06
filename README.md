@@ -19,7 +19,7 @@ Feel free to use it, skid it, and paste it in your projects!
 The multiloader function is **complex and really messy**  I just didn’t know how to do it better at that time.
 
 Also:  
-**If you don’t know how to add includes or link functions, do not download this source. Thanks!**
+**If you don’t know how to add links, do not download this source. Thanks!**
 
 ### How to add includes:
 Go to:  
